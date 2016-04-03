@@ -25,7 +25,7 @@
 
   <!-- AOSP repos (android-4.4.4_r1.0.1 branch) -->
   <remote  name="aosp"
-           fetch="git://aosp.tuna.tsinghua.edu.cn/aosp/" />
+           fetch="https://aosp.tuna.tsinghua.edu.cn/" />
   <default revision="refs/tags/android-4.4.4_r1.0.1"
            remote="aosp"
            sync-j="4" />
